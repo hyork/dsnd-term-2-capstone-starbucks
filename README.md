@@ -66,7 +66,7 @@ In this analysis, I treat the other 2 offer types, bogo and discount, separately
 
 For each offer type, I compare Respond Yes group to Respond No group using these guidance questions and common assumptions:
 1. Do users who respond yes to offers also spend more on the app in general?
-2. How is income correlated with total spending? Do users with higher spending also have higher income? 
+2. How is income related to response?
 3. How is age related to response?
 4. How is number of transactions related to response? (Assumption: user who is already more active on the app would be more likely to respond yes to offer)
 5. Do users who respond yes also have more reward points? (Assumption: users who are engaged and motivated to earn more points would be more likely to respond yes to offers)
@@ -87,6 +87,13 @@ Choose and build other models:
 Evaluate models using confusion matrix
 
 ## Conclusions
-1. Results
-2. Concerns
-3. Future improvement
+### Results
+For bogo offers, we can predit with 70% accuracy whether a user will respond yes or no to the offer. 
+
+### Concerns
+
+### Future improvement
+1. Impute missing data
+2. Apply uplift model analysis to see how the offers affect users' engagement over time
+3. Cost benefit analysis: calculate incremental profits or losses for offers
+4. Tackle class imbalance for discount offer type
