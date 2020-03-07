@@ -86,4 +86,4 @@ Choose and build other models:
 
 Evaluate models using confusion matrix
 
-An accompanied blog post on Medium: [link](https://medium.com/@huyenyork/matching-promotional-offers-and-loyalty-program-customers)
+An accompanied blog post on Medium: [link](https://medium.com/@huyenyork/matching-promotional-offers-and-loyalty-program-customers-b8941668f109)
