@@ -86,14 +86,4 @@ Choose and build other models:
 
 Evaluate models using confusion matrix
 
-## Conclusions
-### Results
-For bogo offers, we can predit with 70% accuracy whether a user will respond yes or no to the offer. 
-
-### Concerns
-
-### Future improvement
-1. Impute missing data
-2. Apply uplift model analysis to see how the offers affect users' engagement over time
-3. Cost benefit analysis: calculate incremental profits or losses for offers
-4. Tackle class imbalance for discount offer type
+An accompanied blog post on Medium: [link](https://medium.com/@huyenyork/matching-promotional-offers-and-loyalty-program-customers)
